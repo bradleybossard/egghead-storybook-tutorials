@@ -3,7 +3,9 @@
 ### Steps
 
 ```
-yarn init -y
+npm init --yes
+npm install --save-dev @storybook/react babel-core
+npm install --save react react-dom
 
 ```
 

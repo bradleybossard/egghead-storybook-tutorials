@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Bradley Bossard <bradleybossard@gmail.com> (http://bradleybossard.com/)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@storybook/react": "3.4.11",
+    "babel-core": "6.26.3"
+  }
 }
