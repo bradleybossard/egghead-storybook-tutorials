@@ -11,5 +11,8 @@
   "dependencies": {
     "react": "16.5.2",
     "react-dom": "16.5.2"
+  },
+  "scripts": {
+     "storybook": "start-storybook -p 6006 -c .storybook"
   }
 }
