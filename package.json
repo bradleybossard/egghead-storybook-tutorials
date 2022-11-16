@@ -5,7 +5,7 @@
   "author": "Bradley Bossard <bradleybossard@gmail.com> (http://bradleybossard.com/)",
   "license": "MIT",
   "devDependencies": {
-    "@storybook/react": "3.4.11",
+    "@storybook/react": "6.5.13",
     "babel-core": "6.26.3"
   },
   "dependencies": {
